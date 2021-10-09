@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris,wine.py
+web: streamlit run iris,wine.py
