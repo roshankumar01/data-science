@@ -1,4 +1,4 @@
 streamlit
 numpy>=1.9.2
-sklearn
+sklearn==0.19.1
 matplotlib>=1.4.3
